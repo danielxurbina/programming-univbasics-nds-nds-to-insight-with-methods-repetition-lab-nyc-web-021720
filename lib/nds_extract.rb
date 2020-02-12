@@ -46,6 +46,7 @@ def total_gross(source)
   # return the total
   
   inner_index = 0 
+  total = 0
   
 end
 
