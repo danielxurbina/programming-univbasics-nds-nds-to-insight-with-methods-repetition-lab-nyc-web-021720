@@ -24,7 +24,7 @@ def gross_for_director(d)
   total
 end
 
-def convert String
+def convert string
   string.titleize
 end
 
