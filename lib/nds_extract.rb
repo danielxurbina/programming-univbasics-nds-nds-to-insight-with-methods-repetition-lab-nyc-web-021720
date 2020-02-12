@@ -26,9 +26,11 @@ end
 
 def convert String
   string.titleize
+end
+
 def list_of_directors(source)
   result = []
-  result[:name] = 
+  result[:name] = convert
 end
 
 def total_gross(source)
