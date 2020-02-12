@@ -24,6 +24,8 @@ def gross_for_director(d)
   total
 end
 
+def convert String
+  string.titleize
 def list_of_directors(source)
   result = []
   result[:name] = 
