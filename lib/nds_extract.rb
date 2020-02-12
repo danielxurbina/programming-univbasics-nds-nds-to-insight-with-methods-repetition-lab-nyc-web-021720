@@ -30,7 +30,7 @@ end
 
 def list_of_directors(source)
   result = []
-  result[:name] = convert
+  result[:name] = convert(source[])
 end
 
 def total_gross(source)
